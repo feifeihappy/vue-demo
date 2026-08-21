@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import TemplateSyntaxDemo from './components/TemplateSyntaxDemo.vue'
+import ReactiveDemo from './components/ReactiveDemo.vue'
 </script>
 
 <template>
-  <TemplateSyntaxDemo />
+  <ReactiveDemo />
 </template>
