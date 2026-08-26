@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import ReactiveDemo from './components/ReactiveDemo.vue'
+import ConditionRenderDemo from './components/ConditionRenderDemo.vue'
 </script>
 
 <template>
-  <ReactiveDemo />
+  <ConditionRenderDemo />
 </template>
