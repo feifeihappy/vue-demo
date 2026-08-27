@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import ConditionRenderDemo from './components/ConditionRenderDemo.vue'
+import EventFormDemo from './components/EventFormDemo.vue'
 </script>
 
 <template>
-  <ConditionRenderDemo />
+  <EventFormDemo />
 </template>
