@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import EventFormDemo from './components/EventFormDemo.vue'
+import CartDemo from './components/CartDemo.vue'
 </script>
 
 <template>
-  <EventFormDemo />
+  <CartDemo />
 </template>
