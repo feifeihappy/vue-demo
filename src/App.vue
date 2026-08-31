@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import CartDemo from './components/CartDemo.vue'
+import ComponentDemo from './components/ComponentDemo.vue'
 </script>
 
 <template>
-  <CartDemo />
+  <ComponentDemo />
 </template>
