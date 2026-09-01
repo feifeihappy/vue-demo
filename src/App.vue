@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import ComponentDemo from './components/ComponentDemo.vue'
+import SlotDemo from './components/SlotDemo.vue'
 </script>
 
 <template>
-  <ComponentDemo />
+  <SlotDemo />
 </template>
